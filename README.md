@@ -29,4 +29,4 @@ Here’s how to view your preapproved payment information:
 [https://paypal.laraship.com](https://paypal.laraship.com)
 
 ## Get it now
-[https://www.laraship.com/product/paypal-subscriptions/](PayPal Package)
+[https://www.laraship.com/product/paypal-subscriptions](PayPal Package)
