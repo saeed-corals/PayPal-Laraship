@@ -26,7 +26,7 @@ Here’s how to view your preapproved payment information:
 
 #### Demo :
 
-[https://paypal.laraship.com](https://paypal.laraship.com)
+[https://demo.laraship.com](https://demo.laraship.com)
 
 ## Get it now:
 
