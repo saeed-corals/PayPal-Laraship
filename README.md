@@ -1,4 +1,12 @@
 
+#### Demo :
+
+[https://demo.laraship.com](https://demo.laraship.com)
+
+## Get it now:
+
+[PayPal Package](https://www.laraship.com/product/paypal-subscriptions/)
+
 **PayPal subscriptions Plugin is the first Laravel Plugin for handling recurring billing for PayPal. integrate Paypal seamlessly with Laravel Subscription Platform, You can enable it along with other subscription gateways like stripe which is already built in with Laraship Subscriptions platform or configure it as a standalone payment gateway.**
 
 If you are a seller  and want to set up preapproved payment agreements for your end users, such as recurring payments, subscriptions, automatic billing, and installment plans.you want to pay with PayPal every time you shop on a certain site, then Laraship Paypal subscription is your ultimate solution for this.
@@ -24,10 +32,3 @@ Here’s how to view your preapproved payment information:
 7.  Support both Sandbox and live environments so you can test your platform before going live.
 8.  secure checkout using PayPal token authentication without redirecting outside your stores.
 
-#### Demo :
-
-[https://demo.laraship.com](https://demo.laraship.com)
-
-## Get it now:
-
-[PayPal Package](https://www.laraship.com/product/paypal-subscriptions/)
